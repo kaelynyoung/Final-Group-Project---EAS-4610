@@ -5,4 +5,4 @@ Our project topic is 1D Tsunami Propagation. It is based on Kowalik's 2012 paper
 
 Our notebook contains the following sections: Introduction, Equations, Numerical Methods, Results, Discussion, Figures, and References. 
 
-The notebooks are "ipynb" files using Python in Google Colab.
+The notebooks are Jupyter Notebooks in ipynb format, using Python in Google Colab.
